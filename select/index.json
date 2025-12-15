@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "センチメンタルじゃ終わらない",
+  "base_artist": "高瀬統也",
+  "createdAt": "2025-12-15T02:24:59.813341Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "センチメンタルじゃ終わらない",
+      "artist": "高瀬統也",
+      "has_synced": false,
+      "path": "select/pl_01_センチメンタルじゃ終わらない_高瀬統也.txt"
+    }
+  ]
+}
